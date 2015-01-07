@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Proxitee iOS SDK allows you to enable your iOS devices to use the Proxitee platform, for more details on setup please visit http://proxitee.com/developers/
+The Proxitee iOS SDK allows you to enable your iOS devices to use the Proxitee platform with iBeacons and GeoFences, for more details on setup please visit http://proxitee.com/developers/
 
 ## Changelog
 
