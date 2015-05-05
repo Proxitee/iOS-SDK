@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ProxiteePlatform"
-  s.version      = "0.4.1"
+  s.version      = "0.4.2"
   s.summary      = "iOS SDK for the Proxitee platform"
   s.homepage     = "http://www.proxitee.com/"
 
